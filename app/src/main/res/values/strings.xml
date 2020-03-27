@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">popular_movies</string>
     <string name="working_on_it">Working on it</string>
+    <string name="timeline">timeline</string>
+    <string name="zodiac">zodiac</string>
 </resources>
